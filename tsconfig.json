@@ -1,12 +1,4 @@
 {
   // https://nuxt.com/docs/guide/concepts/typescript
-  "extends": "./.nuxt/tsconfig.json",
-  "typescript": {
-    "typeCheck": {
-      "typescript": {
-        "configFile": "./tsconfig.nuxt.json"
-      }
-    }
-  }
-  
+  "extends": "./.nuxt/tsconfig.json"
 }
